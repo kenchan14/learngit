@@ -1,4 +1,8 @@
 this is a readme
 now git
-creating a branch.mas
+<<<<<<< HEAD
+creating a branch.2
+=======
+creating a branch.2
+>>>>>>> feature1
 
